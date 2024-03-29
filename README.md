@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Assam, India
 * ✉️  You can contact me at [prakashsur85@gmail.com](mailto:prakashsur85@gmail.com)
 * 🚀  I'm currently working on [E-commerce Website](http://github.com/Tyche28/E-Commerce)
-* 🧠  I'm learning React, Next JS, Tailwind CSS
+* 🧠  I'm learning React.
 
 ### Skills
 
